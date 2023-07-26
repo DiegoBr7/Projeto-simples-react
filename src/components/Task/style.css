@@ -1,0 +1,8 @@
+.Task{
+    background-color: white;
+    justify-content: space-between;
+    border-radius: 1rem;
+    display: flex;
+    padding: .5rem;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 1);
+}
